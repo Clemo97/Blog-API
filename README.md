@@ -1,13 +1,9 @@
 # MiniBloggingApp-test
 
-### Solar System Exploration, 1950s – 1960s
+### Bonus (Optional)
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [X] Implement caching.
+- [x] Consume the API using a console command.
+- [x] Write unit tests for the applica/on.
+- [X] Use Docker to containerize the applica/on.
+
