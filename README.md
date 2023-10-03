@@ -5,6 +5,11 @@
 > and resources, human interface guidelines, and a vibrant community of
 > contributors.
 
+## Getting started
+
+If you're just getting started, check out [`@carbon/react`](./packages/react).
+
+We also have community-contributed components for the following technologies:
 
 ### Bonus (Optional)
 
