@@ -36,6 +36,13 @@ python manage.py runserver 8000
 ### Fetch a single blog post by ID
 <img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-2.png" alt="rest api home page 2" />
 
+## Token 
+Some routes are protected using token-based authentication.
+All assigned tokens are visible through admin panel (http://localhost:8000/admin/authtoken/token/)
+
+<img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-5.png" alt="rest api home page 5" />
+
+
 ## :books: Documentation
 
 - See the documentation site 
