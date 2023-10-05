@@ -19,6 +19,7 @@ schema_view = get_schema_view( # new
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('posts.urls')),
     path('api/v1/', include('posts.urls')),
     path('api-auth/', include('rest_framework.urls')),
     path('api/v1/dj-rest-auth/', include('dj_rest_auth.urls')),
