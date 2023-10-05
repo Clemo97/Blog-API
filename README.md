@@ -41,7 +41,11 @@ python manage.py runserver 8000
 - See the documentation site 
   (http://localhost:8000/swagger/)
 
-<img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-3.png" alt="rest api home page 2" />
+<img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-3.png" alt="rest api home page 3" />
+
+The interactive redoc documentations is here (http://localhost:8000/redoc/)
+
+<img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-4.png" alt="rest api home page 4" />
 
 
 ### Bonus (Optional)
