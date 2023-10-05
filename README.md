@@ -30,9 +30,11 @@ Initialie the server to view the RestAPI data.
 ```sh
 python manage.py runserver 8000
 ```
+### Fetch all blog posts
+  <img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-1.png" alt="rest api home page 1" />
 
-  <img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-1.png" alt="rest api home pag 1" />
-
+### Fetch a single blog post by ID
+<img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-2.png" alt="rest api home page 2" />
 
 ## :books: Documentation
 
