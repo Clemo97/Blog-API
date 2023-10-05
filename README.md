@@ -31,6 +31,9 @@ Initialie the server to view the RestAPI data.
 python manage.py runserver 8000
 ```
 
+  <img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-1.png" alt="rest api home pag 1" />
+
+
 ## :books: Documentation
 
 - See our documentation site
@@ -39,8 +42,8 @@ python manage.py runserver 8000
 
 ### Bonus (Optional)
 
-- [X] Implement caching.
+- [ ] Implement caching.
 - [x] Consume the API using a console command.
-- [x] Write unit tests for the applica/on.
+- [ ] Write unit tests for the applica/on.
 - [X] Use Docker to containerize the applica/on.
 
