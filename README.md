@@ -39,7 +39,7 @@ python manage.py runserver 8000
 ## :books: Documentation
 
 - See the documentation site 
-  [here](http://localhost:8000/swagger/)
+  (http://localhost:8000/swagger/)
 
 <img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-3.png" alt="rest api home page 2" />
 
