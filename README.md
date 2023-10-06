@@ -30,6 +30,13 @@ Initialie the server to view the RestAPI data.
 ```sh
 python manage.py runserver 8000
 ```
+### Credentials
+Use the credentials below to access admin interface instead of creating another super user.
+
+  admin: clement
+  password: clemolumz
+
+
 ### Fetch all blog posts
   <img src="https://github.com/Clemo97/MiniBloggingApp-test/blob/main/screenshots/blog-1.png" alt="rest api home page 1" />
 
