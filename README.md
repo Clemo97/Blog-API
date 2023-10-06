@@ -33,8 +33,8 @@ python manage.py runserver 8000
 ### Credentials
 Use the credentials below to access admin interface instead of creating another super user.
 
-  admin: clement
-  password: clemolumz
+**admin**: <em>clement</em>
+**password**: <em>clemolumz</em>
 
 
 ### Fetch all blog posts
